@@ -1,0 +1,4 @@
+[submodule "public/public"]
+	path = public/public
+	url = https://github.com/temunix2/temunix2.github.io.git
+	branch = master
