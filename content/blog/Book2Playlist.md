@@ -1,7 +1,7 @@
 ---
 title: "Book2Playlists"
 date: 2018-09-28T13:44:46-04:00
-draft: true
+draft: false 
 hero_image: "hero.jpg"
 description: "The inspiration behind this project comes from my passion for reading while listening to music. Creating custom playlists for each book would then allow me to have a better playlist that suits the book."
 ---
