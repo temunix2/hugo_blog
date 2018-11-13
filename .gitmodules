@@ -2,3 +2,7 @@
 	path = public/public
 	url = https://github.com/temunix2/temunix2.github.io.git
 	branch = master
+[submodule "temunix2.github.io"]
+	path = temunix2.github.io
+	url = https://github.com/temunix2/temunix2.github.io.git
+	branch = master
